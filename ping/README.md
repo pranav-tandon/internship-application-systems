@@ -1,7 +1,7 @@
 # Cloudflare Internship Application: Systems
 
 ## How to Build
-See `Makefile` for the build scripts within `src`
+See `Makefile` for the build scripts within `ping`
 
 To build the command line example, simply run `make` or `make compile`
 at the command line in the current directory.
